@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-GazeControl.CSharp.Plugins", "VR-GazeControl.CSharp.Plugins.csproj", "{90A2A1DC-6DFB-6C20-7BFF-7A77EBF0A94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-GazeControl.CSharp", "VR-GazeControl.CSharp.csproj", "{BF2D0D38-44A4-DFC2-18F5-962389D99C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-GazeControl.CSharp.Editor.Plugins", "VR-GazeControl.CSharp.Editor.Plugins.csproj", "{A6474972-749C-F9F4-4CC1-25554E17E16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-GazeControl.CSharp.Editor", "VR-GazeControl.CSharp.Editor.csproj", "{16C7C7B2-A5C3-2D52-2F6C-192BF53A8F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A2A1DC-6DFB-6C20-7BFF-7A77EBF0A94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A2A1DC-6DFB-6C20-7BFF-7A77EBF0A94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A2A1DC-6DFB-6C20-7BFF-7A77EBF0A94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A2A1DC-6DFB-6C20-7BFF-7A77EBF0A94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2D0D38-44A4-DFC2-18F5-962389D99C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D0D38-44A4-DFC2-18F5-962389D99C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D0D38-44A4-DFC2-18F5-962389D99C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D0D38-44A4-DFC2-18F5-962389D99C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6474972-749C-F9F4-4CC1-25554E17E16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6474972-749C-F9F4-4CC1-25554E17E16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6474972-749C-F9F4-4CC1-25554E17E16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6474972-749C-F9F4-4CC1-25554E17E16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C7C7B2-A5C3-2D52-2F6C-192BF53A8F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C7C7B2-A5C3-2D52-2F6C-192BF53A8F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C7C7B2-A5C3-2D52-2F6C-192BF53A8F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C7C7B2-A5C3-2D52-2F6C-192BF53A8F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
