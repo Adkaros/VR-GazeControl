@@ -7,5 +7,5 @@ GazeTrigger.cs can be applied to Quads/UI Images/etc, doing so will enable track
 
 Here is a sample of it being used in a Hololens project-
 
-![Alt Text](https://github.com/Adkaros/VR_GazeControl/blob/master/1.gif)
+![Alt Text](https://github.com/Adkaros/VR-GazeControl/blob/master/1.gif)
 
